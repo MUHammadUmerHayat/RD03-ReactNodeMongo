@@ -1,0 +1,24 @@
+{
+  "name": "rd03-02-nodeapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Chi Lin <chilin89117@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "express-validator": "^5.3.1",
+    "formidable": "^1.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.6",
+    "nodemailer": "^6.1.1",
+    "uuid": "^3.3.2"
+  }
+}
